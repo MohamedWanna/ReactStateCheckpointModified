@@ -1,0 +1,25 @@
+*{
+    background-color: burlywood;
+    text-indent: 3px;
+    line-height: 1em;
+    letter-spacing: 0.8px;
+}
+span{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    margin:2px;
+}
+.titre{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 16px;
+    }
+img{
+    width: 150px;
+    height: 200px;
+    margin: 3px;
+    border: 10px solid transparent;
+    padding: 3px;
+    border-image: url("/public/images/borderimage.jpg") 30 round;
+}
